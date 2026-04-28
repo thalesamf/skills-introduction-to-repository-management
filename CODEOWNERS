@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @thalesamf
+/src/backend/database.py      @thalesamf
+/src/backend/routers/auth.py  @thalesamf
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @thalesamf
